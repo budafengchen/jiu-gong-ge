@@ -1,0 +1,13 @@
+body{
+	font-size: 0;
+	text-align: center;
+	margin: 0;
+}
+div{
+	display: inline-block;
+	background-color: #ffa600;
+	width: 30.0vw;
+	padding-top: 30vw;
+	margin: 1.3vw;
+	border-radius:5%;
+}
